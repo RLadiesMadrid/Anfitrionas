@@ -24,13 +24,13 @@ Ser anfitriona de R-Ladies Madrid te da la oportunidad de organizar un meetup de
 
 No te encargarás de los problemas organizativos, como reservar el sitio o organizar el networking. Tus tareas son mucho más divertidas, te encargarás de:
 
-* Antes del meetup *
+_Antes del meetup_
 - Hablar con la organización para concretar sitio, hora y lugar.
 - Definir la temática del meetup.
 - Buscar las conferenciantes de tu meetup (sí, también puedes hablar tú).
 - Redactar la descripción del meetup.
 
-* Durante el meetup *
+_Durante el meetup_
 - Recibir a las R-Ladies.
 - Presentar la comunidad R-Ladies a los participantes (no te preocupes, nosotras te damos la presentación base).
 - ¡Networkear!
